@@ -1,0 +1,66 @@
+Epoch: 1
+iteration: 1, train_loss_mean: 0.6984043121337891, train_accuracy_mean: 0.5, test_accuracy: 0.546875
+iteration: 101, train_loss_mean: 0.6574125289916992, train_accuracy_mean: 0.6296411156654358, test_accuracy: 0.78125
+iteration: 201, train_loss_mean: 0.6329559087753296, train_accuracy_mean: 0.6862562298774719, test_accuracy: 0.8125
+iteration: 301, train_loss_mean: 0.621001660823822, train_accuracy_mean: 0.7123131155967712, test_accuracy: 0.796875
+iteration: 390, train_loss_mean: 0.6141230463981628, train_accuracy_mean: 0.7274038195610046, test_accuracy: 0.78125
+Epoch: 2
+iteration: 1, train_loss_mean: 0.6140540838241577, train_accuracy_mean: 0.7276614308357239, test_accuracy: 0.796875
+iteration: 101, train_loss_mean: 0.6086297035217285, train_accuracy_mean: 0.7395620942115784, test_accuracy: 0.796875
+iteration: 201, train_loss_mean: 0.6060255765914917, train_accuracy_mean: 0.7448180913925171, test_accuracy: 0.78125
+iteration: 301, train_loss_mean: 0.60298752784729, train_accuracy_mean: 0.7511079907417297, test_accuracy: 0.78125
+iteration: 390, train_loss_mean: 0.6011929512023926, train_accuracy_mean: 0.7550280690193176, test_accuracy: 0.765625
+Epoch: 3
+iteration: 1, train_loss_mean: 0.6011501550674438, train_accuracy_mean: 0.7551016211509705, test_accuracy: 0.765625
+iteration: 101, train_loss_mean: 0.5996552109718323, train_accuracy_mean: 0.7584066390991211, test_accuracy: 0.75
+iteration: 201, train_loss_mean: 0.5981577038764954, train_accuracy_mean: 0.7616590261459351, test_accuracy: 0.796875
+iteration: 301, train_loss_mean: 0.5970392227172852, train_accuracy_mean: 0.7641072869300842, test_accuracy: 0.796875
+iteration: 390, train_loss_mean: 0.595820963382721, train_accuracy_mean: 0.7667334675788879, test_accuracy: 0.765625
+Epoch: 4
+iteration: 1, train_loss_mean: 0.5958123803138733, train_accuracy_mean: 0.7667458653450012, test_accuracy: 0.765625
+iteration: 101, train_loss_mean: 0.5951303243637085, train_accuracy_mean: 0.7681820392608643, test_accuracy: 0.765625
+iteration: 201, train_loss_mean: 0.5943872332572937, train_accuracy_mean: 0.7697620391845703, test_accuracy: 0.78125
+iteration: 301, train_loss_mean: 0.5937424302101135, train_accuracy_mean: 0.7712015509605408, test_accuracy: 0.765625
+iteration: 390, train_loss_mean: 0.593055784702301, train_accuracy_mean: 0.7726662755012512, test_accuracy: 0.78125
+Epoch: 5
+iteration: 1, train_loss_mean: 0.5930371284484863, train_accuracy_mean: 0.7727017998695374, test_accuracy: 0.765625
+iteration: 101, train_loss_mean: 0.5924075841903687, train_accuracy_mean: 0.7739971876144409, test_accuracy: 0.765625
+iteration: 201, train_loss_mean: 0.591667115688324, train_accuracy_mean: 0.7756335139274597, test_accuracy: 0.765625
+iteration: 301, train_loss_mean: 0.5912238359451294, train_accuracy_mean: 0.7765902280807495, test_accuracy: 0.8125
+iteration: 390, train_loss_mean: 0.5908064246177673, train_accuracy_mean: 0.7774599194526672, test_accuracy: 0.734375
+Epoch: 6
+iteration: 1, train_loss_mean: 0.5908172130584717, train_accuracy_mean: 0.7774298191070557, test_accuracy: 0.734375
+iteration: 101, train_loss_mean: 0.5902643203735352, train_accuracy_mean: 0.7785912156105042, test_accuracy: 0.765625
+iteration: 201, train_loss_mean: 0.5898283123970032, train_accuracy_mean: 0.7795066237449646, test_accuracy: 0.78125
+iteration: 301, train_loss_mean: 0.5893892049789429, train_accuracy_mean: 0.7805142402648926, test_accuracy: 0.75
+iteration: 390, train_loss_mean: 0.5889955759048462, train_accuracy_mean: 0.7813768982887268, test_accuracy: 0.796875
+Epoch: 7
+iteration: 1, train_loss_mean: 0.5889919996261597, train_accuracy_mean: 0.7813835144042969, test_accuracy: 0.796875
+iteration: 101, train_loss_mean: 0.5886884331703186, train_accuracy_mean: 0.7820757627487183, test_accuracy: 0.828125
+iteration: 201, train_loss_mean: 0.5886965990066528, train_accuracy_mean: 0.7820555567741394, test_accuracy: 0.71875
+iteration: 301, train_loss_mean: 0.5883640050888062, train_accuracy_mean: 0.7827586531639099, test_accuracy: 0.84375
+iteration: 390, train_loss_mean: 0.5880858302116394, train_accuracy_mean: 0.7833734154701233, test_accuracy: 0.796875
+Epoch: 8
+iteration: 1, train_loss_mean: 0.5880814790725708, train_accuracy_mean: 0.7833783626556396, test_accuracy: 0.8125
+iteration: 101, train_loss_mean: 0.5879574418067932, train_accuracy_mean: 0.7836122512817383, test_accuracy: 0.734375
+iteration: 201, train_loss_mean: 0.5876400470733643, train_accuracy_mean: 0.7842673063278198, test_accuracy: 0.828125
+iteration: 301, train_loss_mean: 0.5874180793762207, train_accuracy_mean: 0.7847864031791687, test_accuracy: 0.828125
+iteration: 390, train_loss_mean: 0.5871663689613342, train_accuracy_mean: 0.7852663993835449, test_accuracy: 0.796875
+Epoch: 9
+iteration: 1, train_loss_mean: 0.5871692299842834, train_accuracy_mean: 0.7852601408958435, test_accuracy: 0.796875
+iteration: 101, train_loss_mean: 0.5870564579963684, train_accuracy_mean: 0.7854849100112915, test_accuracy: 0.828125
+iteration: 201, train_loss_mean: 0.5868587493896484, train_accuracy_mean: 0.7859361171722412, test_accuracy: 0.796875
+iteration: 301, train_loss_mean: 0.5866212248802185, train_accuracy_mean: 0.786438524723053, test_accuracy: 0.78125
+iteration: 390, train_loss_mean: 0.5863990187644958, train_accuracy_mean: 0.7869168519973755, test_accuracy: 0.78125
+Epoch: 10
+iteration: 1, train_loss_mean: 0.5863987803459167, train_accuracy_mean: 0.7869152426719666, test_accuracy: 0.78125
+iteration: 101, train_loss_mean: 0.586297333240509, train_accuracy_mean: 0.7871780395507812, test_accuracy: 0.78125
+iteration: 201, train_loss_mean: 0.5861145853996277, train_accuracy_mean: 0.7875909209251404, test_accuracy: 0.78125
+iteration: 301, train_loss_mean: 0.5860673785209656, train_accuracy_mean: 0.787699282169342, test_accuracy: 0.75
+iteration: 390, train_loss_mean: 0.5860481262207031, train_accuracy_mean: 0.7877604365348816, test_accuracy: 0.78125
+Calculating test_accuracy...
+
+Test accuracy : 0.8386217951774597
+
+Best Test accuracy : 0.84375
+# keras w2v: 3 epochs 85.42 %  

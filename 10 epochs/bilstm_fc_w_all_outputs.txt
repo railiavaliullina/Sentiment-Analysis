@@ -1,0 +1,34 @@
+Epoch 1
+iteration 1, train_loss_mean 0.6878779530525208, train_accuracy_mean 0.53125, test_accuracy_cur 0.5095999836921692
+iteration 78, train_loss_mean 0.6756683588027954, train_accuracy_mean 0.5931490659713745, test_accuracy_cur 0.652999997138977
+Epoch 2
+iteration 1, train_loss_mean 0.6753371357917786, train_accuracy_mean 0.59375, test_accuracy_cur 0.6389999985694885
+iteration 78, train_loss_mean 0.6598618626594543, train_accuracy_mean 0.6384214758872986, test_accuracy_cur 0.6679999828338623
+Epoch 3
+iteration 1, train_loss_mean 0.6597349047660828, train_accuracy_mean 0.6385350227355957, test_accuracy_cur 0.692799985408783
+iteration 78, train_loss_mean 0.6511368751525879, train_accuracy_mean 0.6583199501037598, test_accuracy_cur 0.704800009727478
+Epoch 4
+iteration 1, train_loss_mean 0.6510495543479919, train_accuracy_mean 0.6583111882209778, test_accuracy_cur 0.7071999907493591
+iteration 78, train_loss_mean 0.6452727913856506, train_accuracy_mean 0.670973539352417, test_accuracy_cur 0.7113999724388123
+Epoch 5
+iteration 1, train_loss_mean 0.645214319229126, train_accuracy_mean 0.6710762977600098, test_accuracy_cur 0.7196000218391418
+iteration 78, train_loss_mean 0.6416770815849304, train_accuracy_mean 0.6816506385803223, test_accuracy_cur 0.6705999970436096
+Epoch 6
+iteration 1, train_loss_mean 0.6416369676589966, train_accuracy_mean 0.6816256642341614, test_accuracy_cur 0.6991999745368958
+iteration 78, train_loss_mean 0.6401185989379883, train_accuracy_mean 0.6906717419624329, test_accuracy_cur 0.776199996471405
+Epoch 7
+iteration 1, train_loss_mean 0.6400963664054871, train_accuracy_mean 0.690931499004364, test_accuracy_cur 0.7781999707221985
+iteration 78, train_loss_mean 0.6378734707832336, train_accuracy_mean 0.6998053789138794, test_accuracy_cur 0.72079998254776
+Epoch 8
+iteration 1, train_loss_mean 0.6378477811813354, train_accuracy_mean 0.6998114585876465, test_accuracy_cur 0.7170000076293945
+iteration 78, train_loss_mean 0.6360329389572144, train_accuracy_mean 0.7072566151618958, test_accuracy_cur 0.7409999966621399
+Epoch 9
+iteration 1, train_loss_mean 0.6360132098197937, train_accuracy_mean 0.7072749733924866, test_accuracy_cur 0.7409999966621399
+iteration 78, train_loss_mean 0.6342343091964722, train_accuracy_mean 0.7142539024353027, test_accuracy_cur 0.7667999863624573
+Epoch 10
+iteration 1, train_loss_mean 0.6342155337333679, train_accuracy_mean 0.7143492102622986, test_accuracy_cur 0.7554000020027161
+iteration 78, train_loss_mean 0.6326591968536377, train_accuracy_mean 0.7201122045516968, test_accuracy_cur 0.8022000193595886
+
+Test accuracy  0.8022000193595886
+
+Best test accuracy  0.8022000193595886
