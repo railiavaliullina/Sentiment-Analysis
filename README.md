@@ -6,7 +6,7 @@
 
 This project contains:
 
-    1) code for computing vector representations of reviews using the ELMo (Embeddings from Language Models);
+    1) code for computing vector representations of reviews using ELMo (Embeddings from Language Models);
     2) implementation of RNN, CNN neural networks as baselines;
     3) implementation of Biattentive Classification Network + Maxout Network (BCN) from paper:
 
