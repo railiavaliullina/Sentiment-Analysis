@@ -27,7 +27,31 @@ Movie reviews from IMdb:
   
 ## Implementation details
 
-1) Computing vector representations of reviews using ELMo (Embeddings from Language Models) scheme:
+1) Computing vector representations of reviews using ELMo (Embeddings from Language Models) process visualization:
 
 ![image](https://user-images.githubusercontent.com/113569606/192167859-cea2cf4d-4a1c-46b3-b23c-c7e0d8f46df1.png)
+
+2) 1st implemented model architecture:
+
+![image](https://user-images.githubusercontent.com/113569606/192167938-3a940ea1-bf6c-4ac1-9c92-04a62e370ca4.png)
+
+3) 2nd implemented model architecture:
+
+![image](https://user-images.githubusercontent.com/113569606/192167949-bf8fb622-a9db-4a87-8c21-0b5f763af980.png)
+
+4) 3rd implemented model architecture:
+
+![image](https://user-images.githubusercontent.com/113569606/192167969-79c6c8ba-4e01-410e-8518-33d148ea10d1.png)
+
+5) 4th implemented model architecture (Biattentive Classification Network + Maxout Network, paper: "Learned in translation: Contextualized word vectors"):
+
+![image](https://user-images.githubusercontent.com/113569606/192167983-a7100c39-c08f-4520-9cf3-f19eb5fdfa35.png)
+
+6) 5th implemented model architecture (Biattentive Classification Network + ReLU Feedforward Network, paper: "Deep contextualized word representations"):
+
+        is same as previous one, except that ReLU activation function was used instead of Maxout after the last layer.
+
+Maxout Function visualization:
+
+![image](https://user-images.githubusercontent.com/113569606/192168123-b365359d-eacb-40c6-be72-dcbe39dd90b6.png)
 
