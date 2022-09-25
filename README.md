@@ -10,11 +10,11 @@ This project contains:
     2) implementation of RNN, CNN neural networks as baselines;
     3) implementation of Biattentive Classification Network + Maxout Network (BCN) from paper:
 
-        McCann B. et al. Learned in translation: Contextualized word vectors , 2017
+        McCann B. et al. Learned in translation: Contextualized word vectors, 2017
 
     4) implementation of Biattentive Classification Network + ReLU Feedforward Network (modification of BCN) from paper:
 
-        Peters, Matthew E., et al. Deep contextualized word representations,  2018
+        Peters, Matthew E., et al. Deep contextualized word representations, 2018
 
     5) implementation of models training pipeline;
     6) comparison of all implemented models results.
