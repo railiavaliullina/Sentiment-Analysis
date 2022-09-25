@@ -27,3 +27,7 @@ Movie reviews from IMdb:
   
 ## Implementation details
 
+1) Computing vector representations of reviews using ELMo (Embeddings from Language Models) scheme:
+
+![image](https://user-images.githubusercontent.com/113569606/192167859-cea2cf4d-4a1c-46b3-b23c-c7e0d8f46df1.png)
+
