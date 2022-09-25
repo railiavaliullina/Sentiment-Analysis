@@ -55,3 +55,26 @@ Maxout Function visualization:
 
 ![image](https://user-images.githubusercontent.com/113569606/192168123-b365359d-eacb-40c6-be72-dcbe39dd90b6.png)
 
+
+# Training Results
+
+![image](https://user-images.githubusercontent.com/113569606/192168170-3a61a281-54ce-4562-9fb5-beadc9cda8a0.png)
+
+![image](https://user-images.githubusercontent.com/113569606/192168177-2f7df4c2-0fe4-424d-85d7-101c4ead83c8.png)
+
+![image](https://user-images.githubusercontent.com/113569606/192168181-bad331e1-b3f6-42f3-9001-6e893b0e9c3d.png)
+
+![image](https://user-images.githubusercontent.com/113569606/192168187-88612754-12d4-49bf-9572-d9071b1f9f54.png)
+
+![image](https://user-images.githubusercontent.com/113569606/192168190-d178093d-615b-4980-b9b1-1528ad855b07.png)
+
+
+# Best Model (according to obtained results)
+
+## Architecture
+
+![image](https://user-images.githubusercontent.com/113569606/192168248-8b9ce15e-952e-4b20-9023-bb7a4a42bb1a.png)
+
+## Visualization of the training process
+
+![image](https://user-images.githubusercontent.com/113569606/192168286-9758bc0b-1f98-44be-bc59-076625fcb988.png)
